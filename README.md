@@ -1,1 +1,1 @@
-# cafe-talks
+Welcome to Eleven Dev Cafe Community!
