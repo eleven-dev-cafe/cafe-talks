@@ -1,6 +1,6 @@
 # ☕ Cafe Talks – Eleven Development Cafe  
 
-Welcome to **Cafe Talks**, the official Discussions space for the [Eleven Development Cafe](https://github.com/Eleven-Development-Cafe)! 🚀  
+Welcome to **Cafe Talks**, the official Discussions space for the [Eleven Development Cafe](https://github.com/eleven-dev-cafe)! 🚀  
 This is your **community hub** for asking questions, sharing ideas, and collaborating with fellow developers.  
 
 </br>
@@ -29,7 +29,7 @@ Think of this as our **virtual café table** ☕ where devs hang out and discuss
 ## 📜 Code of Conduct  
 
 We follow the same community guidelines as our main organization.  
-Please read our [Code of Conduct](../CODE_OF_CONDUCT.md) before posting.  
+Please read our [Code of Conduct](/CODE_OF_CONDUCT.md) before posting.  
 
 Be respectful, inclusive, and constructive 💙.  
 
@@ -45,7 +45,7 @@ Join us on Discord for real-time chats:
 ## 👨‍💻 Maintainer  
 
 This repo is maintained by:  
-**Gyarsilal Solanki** – [@gyarsilalsolanki011](https://github.com/gyarsilal)  
+**Gyarsilal Solanki** – [@gyarsilalsolanki011](https://github.com/gyarsilalsolanki011)  
 
 </br>
 
