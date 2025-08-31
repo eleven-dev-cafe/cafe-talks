@@ -29,7 +29,7 @@ Think of this as our **virtual café table** ☕ where devs hang out and discuss
 ## 📜 Community Guidelines  
 
 We follow the same community guidelines as our main organization.  
-Please read our [Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines) before posting.  
+Please read our [Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines) before posting. 
 
 Be respectful, inclusive, and constructive 💙.  
 
